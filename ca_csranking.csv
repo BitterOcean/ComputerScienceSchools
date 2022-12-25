@@ -1,0 +1,33 @@
+rank,institution,rank_AI,rank_Systems,rank_Theory,rank_Interdisciplinary_Areas,rank_Computer_Vision,rank_Robotics,rank_Natural_language_processing,rank_Computaional_bio_&_bioinformatics
+1,University of Toronto,1.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0
+2,University of Waterloo,2.0,1.0,1.0,4.0,5.0,8.0,4.0,7.0
+3,University of British Columbia,4.0,3.0,6.0,2.0,4.0,7.0,5.0,
+4,Simon Fraser University,6.0,4.0,4.0,3.0,2.0,4.0,7.0,5.0
+5,McGill University,7.0,5.0,3.0,5.0,14.0,2.0,1.0,1.0
+6,University of Alberta,3.0,13.0,8.0,10.0,11.0,3.0,3.0,
+7,University of Montreal,5.0,13.0,9.0,8.0,8.0,6.0,6.0,5.0
+8,Carleton University,9.0,6.0,11.0,9.0,13.0,,12.0,
+8,University of Victoria,19.0,6.0,6.0,7.0,18.0,16.0,,8.0
+10,York University,8.0,10.0,15.0,15.0,3.0,9.0,10.0,
+11,University of Calgary,27.0,6.0,9.0,6.0,,10.0,,
+12,Concordia University,13.0,6.0,16.0,23.0,7.0,,,
+12,University of Guelph,13.0,13.0,16.0,12.0,10.0,,,
+12,Université Laval,10.0,,,14.0,9.0,5.0,,
+15,Dalhousie University,22.0,10.0,16.0,15.0,21.0,,17.0,
+15,Queen’s University,15.0,10.0,,17.0,,16.0,8.0,
+15,University of Manitoba,16.0,13.0,16.0,10.0,12.0,13.0,,
+15,University of Ottawa,11.0,,12.0,18.0,15.0,12.0,9.0,
+19,ETS Montreal,12.0,,,23.0,6.0,,,
+19,Université de Sherbrooke,22.0,,5.0,18.0,17.0,,,3.0
+21,McMaster University,22.0,13.0,,27.0,,,,
+21,Memorial University of Newfoundland,,,12.0,23.0,,10.0,,
+21,Ontario Tech University,27.0,19.0,,18.0,20.0,,,8.0
+21,Polytechnique Montreal,17.0,19.0,,23.0,18.0,,14.0,
+21,Toronto Metropolitan University,22.0,,,27.0,15.0,14.0,,
+21,University of New Brunswick,26.0,,,18.0,,,11.0,
+21,University of Regina,19.0,19.0,,,,,18.0,
+21,University of Saskatchewan,30.0,,,13.0,,,,
+21,Université du Québec à Montréal,19.0,19.0,16.0,18.0,,14.0,16.0,4.0
+21,Western University,17.0,13.0,,,21.0,,13.0,
+31,Brock University,29.0,,,,,,15.0,
+31,University of Windsor,,,12.0,,,,,

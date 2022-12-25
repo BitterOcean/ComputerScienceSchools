@@ -1,0 +1,188 @@
+rank,institution,rank_AI,rank_Systems,rank_Theory,rank_Interdisciplinary_Areas,rank_Computer_Vision,rank_Robotics,rank_Natural_language_processing,rank_Computaional_bio_&_bioinformatics
+1,Carnegie Mellon University,1.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0
+2,Univ. of Illinois at Urbana-Champaign,2.0,1.0,4.0,10.0,5.0,7.0,11.0,5.0
+3,Massachusetts Institute of Technology,8.0,5.0,2.0,5.0,6.0,3.0,19.0,10.0
+4,Univ. of California - San Diego,6.0,4.0,9.0,8.0,3.0,9.0,12.0,3.0
+5,University of Michigan,5.0,3.0,13.0,12.0,12.0,18.0,8.0,
+6,Stanford University,4.0,16.0,7.0,3.0,4.0,8.0,6.0,13.0
+6,University of Washington,7.0,10.0,8.0,4.0,21.0,14.0,1.0,23.0
+8,Cornell University,3.0,14.0,5.0,7.0,11.0,15.0,3.0,50.0
+9,Univ. of California - Berkeley,14.0,6.0,6.0,9.0,2.0,4.0,26.0,14.0
+10,Georgia Institute of Technology,16.0,7.0,20.0,6.0,17.0,5.0,20.0,20.0
+11,University of Maryland - College Park,11.0,24.0,21.0,2.0,9.0,11.0,7.0,4.0
+12,Northeastern University,20.0,15.0,10.0,11.0,28.0,27.0,39.0,16.0
+13,Purdue University,26.0,8.0,16.0,16.0,54.0,47.0,48.0,11.0
+14,University of Texas at Austin,17.0,13.0,3.0,34.0,15.0,22.0,13.0,
+14,University of Wisconsin - Madison,29.0,9.0,12.0,21.0,19.0,45.0,54.0,34.0
+16,Columbia University,13.0,19.0,14.0,14.0,14.0,33.0,15.0,22.0
+17,University of Pennsylvania,15.0,18.0,17.0,14.0,20.0,1.0,5.0,42.0
+18,Princeton University,30.0,21.0,19.0,17.0,24.0,48.0,35.0,9.0
+19,New York University,18.0,32.0,15.0,18.0,32.0,38.0,10.0,
+20,Univ. of California - Los Angeles,10.0,24.0,11.0,56.0,35.0,106.0,14.0,2.0
+20,University of Massachusetts Amherst,9.0,26.0,47.0,25.0,26.0,20.0,17.0,58.0
+22,Stony Brook University,28.0,29.0,25.0,19.0,8.0,30.0,30.0,32.0
+23,Univ. of California - Santa Barbara,23.0,21.0,22.0,42.0,41.0,90.0,15.0,50.0
+24,Rutgers University,12.0,36.0,29.0,21.0,23.0,12.0,34.0,
+24,University of Chicago,49.0,12.0,26.0,42.0,58.0,103.0,59.0,
+26,Univ. of California - Irvine,37.0,19.0,39.0,30.0,39.0,90.0,42.0,25.0
+27,University of Southern California,19.0,31.0,27.0,34.0,29.0,13.0,23.0,
+28,Duke University,26.0,26.0,31.0,40.0,38.0,39.0,37.0,6.0
+29,Pennsylvania State University,24.0,17.0,62.0,56.0,32.0,94.0,28.0,7.0
+30,Northwestern University,50.0,30.0,36.0,27.0,81.0,37.0,60.0,
+30,Univ. of California - Riverside,53.0,11.0,45.0,56.0,36.0,55.0,70.0,15.0
+32,Ohio State University,44.0,26.0,58.0,37.0,59.0,101.0,38.0,42.0
+33,Harvard University,39.0,44.0,28.0,25.0,56.0,101.0,67.0,
+33,University of Utah,55.0,34.0,44.0,12.0,73.0,28.0,27.0,38.0
+33,Yale University,57.0,36.0,18.0,32.0,111.0,16.0,36.0,
+36,Brown University,35.0,52.0,29.0,20.0,30.0,19.0,33.0,19.0
+36,George Mason University,48.0,41.0,50.0,24.0,49.0,26.0,46.0,42.0
+36,Texas A&M University,46.0,38.0,67.0,21.0,80.0,10.0,45.0,58.0
+39,Univ. of California - Santa Cruz,38.0,41.0,38.0,37.0,46.0,65.0,44.0,67.0
+40,Boston University,33.0,41.0,24.0,66.0,16.0,79.0,64.0,
+40,University at Buffalo,35.0,33.0,42.0,66.0,22.0,36.0,63.0,
+40,University of Illinois at Chicago,21.0,50.0,33.0,49.0,47.0,81.0,21.0,67.0
+43,Arizona State University,34.0,44.0,70.0,45.0,34.0,21.0,46.0,
+43,Rice University,40.0,44.0,36.0,54.0,43.0,25.0,71.0,34.0
+43,University of Colorado Boulder,52.0,48.0,41.0,29.0,86.0,17.0,29.0,
+43,University of Minnesota,53.0,40.0,82.0,28.0,47.0,6.0,61.0,
+47,North Carolina State University,74.0,21.0,47.0,56.0,,92.0,73.0,58.0
+47,University of North Carolina,32.0,52.0,67.0,32.0,37.0,29.0,9.0,40.0
+47,University of Virginia,42.0,38.0,52.0,62.0,76.0,46.0,52.0,58.0
+50,Univ. of California - Davis,61.0,44.0,33.0,44.0,56.0,,74.0,58.0
+51,Johns Hopkins University,22.0,78.0,23.0,53.0,7.0,23.0,4.0,47.0
+51,Oregon State University,40.0,57.0,31.0,49.0,25.0,51.0,24.0,47.0
+51,Virginia Tech,64.0,34.0,60.0,49.0,99.0,121.0,55.0,33.0
+54,Indiana University,68.0,49.0,45.0,40.0,69.0,40.0,88.0,12.0
+54,University of Pittsburgh,25.0,52.0,82.0,62.0,31.0,115.0,31.0,17.0
+56,University of Central Florida,46.0,57.0,97.0,37.0,10.0,56.0,57.0,17.0
+57,University of Texas at Dallas,31.0,66.0,54.0,85.0,51.0,62.0,18.0,
+58,Michigan State University,43.0,73.0,97.0,54.0,18.0,81.0,66.0,34.0
+58,University of Rochester,44.0,73.0,52.0,85.0,26.0,58.0,43.0,
+58,Washington University in St. Louis,55.0,66.0,82.0,47.0,51.0,75.0,93.0,
+61,Rochester Institute of Technology,59.0,66.0,82.0,56.0,51.0,58.0,58.0,
+61,Univ. of California - Merced,67.0,60.0,58.0,62.0,13.0,32.0,102.0,
+61,University of Notre Dame,58.0,60.0,,66.0,89.0,106.0,39.0,30.0
+64,University of Texas at Arlington,73.0,52.0,,78.0,65.0,54.0,119.0,58.0
+65,Binghamton University,69.0,56.0,,98.0,65.0,75.0,80.0,
+65,Dartmouth College,96.0,106.0,54.0,30.0,120.0,34.0,68.0,26.0
+65,University of Connecticut,79.0,73.0,54.0,72.0,102.0,92.0,85.0,7.0
+65,University of Florida,74.0,66.0,67.0,66.0,55.0,,90.0,20.0
+65,Vanderbilt University,93.0,66.0,93.0,47.0,75.0,66.0,100.0,
+65,Worcester Polytechnic Institute,65.0,82.0,,45.0,100.0,24.0,62.0,
+71,California Institute of Technology,72.0,106.0,35.0,72.0,40.0,86.0,,50.0
+71,College of William and Mary,112.0,51.0,93.0,78.0,98.0,,119.0,
+71,TTI Chicago,51.0,,42.0,72.0,41.0,57.0,25.0,26.0
+74,Clemson University,107.0,78.0,,36.0,76.0,58.0,,58.0
+74,NJIT,97.0,60.0,82.0,91.0,106.0,,,42.0
+74,Stevens Institute of Technology,70.0,73.0,74.0,109.0,50.0,75.0,80.0,
+74,Tufts University,89.0,82.0,97.0,52.0,,53.0,90.0,34.0
+74,University of Delaware,79.0,66.0,74.0,91.0,64.0,96.0,,47.0
+79,CUNY,83.0,92.0,50.0,85.0,93.0,61.0,65.0,
+79,Florida State University,121.0,57.0,47.0,109.0,120.0,111.0,102.0,
+79,Iowa State University,76.0,82.0,97.0,85.0,107.0,34.0,83.0,
+79,University of Arizona,66.0,92.0,97.0,75.0,85.0,,22.0,26.0
+79,University of Houston,76.0,92.0,82.0,66.0,69.0,111.0,56.0,50.0
+79,University of Oregon,62.0,92.0,115.0,109.0,65.0,,41.0,
+85,Colorado School of Mines,101.0,82.0,97.0,78.0,89.0,52.0,,23.0
+85,Emory University,63.0,106.0,,98.0,116.0,,50.0,50.0
+85,Georgetown University,89.0,82.0,39.0,138.0,,,48.0,
+85,Illinois Institute of Technology,83.0,60.0,,138.0,62.0,,88.0,
+85,Syracuse University,86.0,73.0,97.0,123.0,84.0,,,
+85,Temple University,59.0,106.0,,109.0,62.0,,51.0,
+85,University of Tennessee,112.0,66.0,,85.0,71.0,64.0,,
+85,Washington State University,83.0,60.0,,138.0,96.0,121.0,119.0,
+93,Brigham Young University,82.0,128.0,,75.0,86.0,79.0,68.0,
+93,George Washington University,118.0,60.0,97.0,138.0,78.0,,,
+93,Lehigh University,86.0,128.0,,56.0,86.0,41.0,93.0,
+93,Portland State University,117.0,92.0,62.0,91.0,45.0,103.0,102.0,
+93,Rensselaer Polytechnic Institute,79.0,128.0,97.0,91.0,,115.0,102.0,
+93,Tulane University,76.0,158.0,93.0,75.0,68.0,78.0,95.0,
+93,UNC - Charlotte,107.0,106.0,,62.0,102.0,44.0,95.0,
+93,University of Georgia,101.0,82.0,,109.0,115.0,70.0,,
+93,University of Massachusetts Lowell,86.0,82.0,,109.0,,62.0,32.0,
+93,University of Nebraska,112.0,92.0,74.0,78.0,,43.0,112.0,
+93,University of South Carolina,89.0,106.0,97.0,78.0,60.0,49.0,95.0,58.0
+93,Wayne State University,89.0,82.0,,98.0,61.0,,,
+105,Augusta University,144.0,92.0,62.0,91.0,,96.0,,
+105,Boston College,103.0,158.0,57.0,98.0,83.0,,76.0,
+105,Brandeis University,70.0,128.0,,,82.0,,52.0,
+105,Case Western Reserve University,103.0,82.0,,109.0,,94.0,75.0,38.0
+105,Drexel University,97.0,128.0,70.0,98.0,89.0,,87.0,
+105,Florida International University,112.0,106.0,74.0,98.0,89.0,86.0,80.0,40.0
+105,University of Iowa,118.0,92.0,60.0,98.0,,,79.0,
+105,University of Louisiana - Lafayette,112.0,106.0,,85.0,,70.0,,
+105,University of New Hampshire,93.0,128.0,,98.0,,67.0,112.0,
+114,Colorado State University,121.0,92.0,,138.0,78.0,121.0,,50.0
+114,DePaul University,121.0,128.0,74.0,109.0,,86.0,95.0,
+114,Kent State University,135.0,92.0,97.0,98.0,,86.0,,
+114,Michigan Technological University,135.0,106.0,62.0,123.0,,,102.0,
+114,Texas State University,155.0,82.0,97.0,138.0,111.0,,,
+114,UCCS,107.0,106.0,,123.0,71.0,,102.0,42.0
+114,Univ. of Maryland - Baltimore County,93.0,128.0,,98.0,107.0,96.0,71.0,
+114,University of Arkansas,105.0,106.0,82.0,157.0,124.0,,102.0,
+114,University of Kansas,126.0,78.0,,157.0,116.0,115.0,102.0,
+114,University of Kentucky,97.0,128.0,,157.0,96.0,121.0,85.0,
+114,University of Memphis,107.0,158.0,,78.0,111.0,84.0,102.0,
+114,University of Nevada,135.0,128.0,,66.0,116.0,31.0,,
+114,University of North Texas,105.0,92.0,,123.0,124.0,,76.0,67.0
+114,University of South Florida,135.0,92.0,97.0,98.0,93.0,42.0,119.0,
+114,University of Texas at San Antonio,144.0,78.0,,109.0,,,119.0,
+114,Virginia Commonwealth University,126.0,106.0,70.0,91.0,,67.0,102.0,26.0
+130,Auburn University,107.0,128.0,,,111.0,,95.0,
+130,Georgia State University,121.0,106.0,,109.0,100.0,,112.0,31.0
+130,IUPUI,126.0,128.0,,78.0,127.0,,,
+130,Kansas State University,126.0,106.0,82.0,123.0,,84.0,112.0,
+130,Louisiana State University,155.0,106.0,97.0,138.0,,103.0,,
+130,New Mexico State University,118.0,128.0,,123.0,,,,
+130,Northern Arizona University,155.0,92.0,,138.0,,,,
+130,Old Dominion University,126.0,128.0,,138.0,127.0,,112.0,50.0
+130,Texas Tech University,135.0,106.0,74.0,138.0,,,,
+130,University of Hawaii at Manoa,155.0,128.0,74.0,138.0,,,,
+130,University of Massachusetts Boston,144.0,128.0,,109.0,107.0,111.0,,
+130,University of Michigan-Dearborn,144.0,92.0,,157.0,,,100.0,
+130,University of New Mexico,169.0,106.0,74.0,91.0,,50.0,,
+130,University of Vermont,155.0,106.0,,123.0,,96.0,,
+130,West Virginia University,97.0,158.0,,,44.0,,,
+145,Boise State University,126.0,128.0,,138.0,,106.0,83.0,
+145,Cleveland State University,126.0,128.0,,,93.0,,,
+145,Florida Atlantic University,155.0,128.0,70.0,,,,,
+145,Mississippi State University,135.0,128.0,,157.0,,115.0,119.0,
+145,Naval Postgraduate School,,106.0,97.0,123.0,,121.0,,
+145,OHSU,135.0,,,,116.0,,76.0,
+145,Ohio University,155.0,128.0,,,,,,
+145,Oklahoma State University,155.0,128.0,,157.0,102.0,115.0,,
+145,The University of Alabama,144.0,128.0,,138.0,,96.0,90.0,
+145,Towson University,144.0,,82.0,,,,,
+145,UNC - Greensboro,144.0,158.0,,123.0,,115.0,,
+145,University at Albany - SUNY,144.0,158.0,,123.0,,74.0,,
+145,University of Alabama - Birmingham,144.0,106.0,,,124.0,,119.0,
+145,University of Cincinnati,155.0,106.0,97.0,138.0,102.0,111.0,,
+145,University of Colorado - Denver,169.0,128.0,,123.0,,106.0,,
+145,University of Denver,169.0,,,109.0,120.0,81.0,,
+145,University of Miami,155.0,158.0,,123.0,,,,
+145,University of Missouri,121.0,158.0,82.0,138.0,74.0,,,58.0
+145,University of Nebraska - Omaha,126.0,158.0,,109.0,,70.0,,
+145,University of Nevada Las Vegas,,106.0,,,,,,
+145,University of New Orleans,169.0,128.0,,157.0,,121.0,,
+145,University of Oklahoma,155.0,,93.0,138.0,,,112.0,
+145,University of Southern Mississippi,135.0,,,109.0,,67.0,,
+145,University of Texas - El Paso,126.0,158.0,97.0,157.0,120.0,,,
+145,University of Wisconsin - Milwaukee,,158.0,62.0,138.0,,,,
+145,University of Wyoming,,,,123.0,,,,
+145,Utah State University,155.0,128.0,,123.0,,128.0,,
+145,Western Michigan University,169.0,128.0,,,,,119.0,
+145,Wichita State University,135.0,128.0,,123.0,,73.0,,
+174,Florida Institute of Technology,,,,157.0,,121.0,,
+174,Indiana State University,,,82.0,,,,,
+174,Missouri S&T,144.0,,,,,,,
+174,Missouri University of Technology,169.0,158.0,,,,,,
+174,Montana State University,169.0,158.0,97.0,138.0,,,,50.0
+174,New Mexico Tech,169.0,,,,,,,
+174,Nova Southeastern University,144.0,,,,107.0,,,
+174,Oakland University,,128.0,,,,,,
+174,Shanghaitech University,,158.0,,,,,,
+174,Southern Methodist University,,128.0,,157.0,,,,
+174,University of Alabama - Huntsville,,158.0,,,,,,
+174,University of Louisville,,158.0,,138.0,,106.0,,
+174,University of Missouri - Kansas City,155.0,158.0,,,,,,
+174,University of Tulsa,155.0,158.0,,157.0,,,112.0,
